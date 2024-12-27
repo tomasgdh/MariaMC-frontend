@@ -1,0 +1,16 @@
+{
+    "result": "ok",
+    "item": {
+        "id": 10,
+        "code": "010",
+        "description": "Producto 11",
+        "idTipoProducto": 2,
+        "idCategoria": 1,
+        "categoria": "Pantalon",
+        "idMarca": 51,
+        "marca": "Sin Marca",
+        "idTalle": 4,
+        "talle": "M - Medium",
+        "price": 7050.35
+    }
+}

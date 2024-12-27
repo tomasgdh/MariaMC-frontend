@@ -1,0 +1,63 @@
+venta: {
+    "listaDeProductos": [
+        {
+            "id": 10,
+            "code": "010",
+            "description": "Producto 11",
+            "idTipoProducto": 2,
+            "idCategoria": 1,
+            "categoria": "Pantalon",
+            "idTalle": 4,
+            "talle": "M - Medium",
+            "price": 7050.35
+        },
+        {
+            "id": 10,
+            "code": "010",
+            "description": "Producto 11",
+            "idTipoProducto": 2,
+            "idCategoria": 1,
+            "categoria": "Pantalon",
+            "idTalle": 4,
+            "talle": "M - Medium",
+            "price": 7050.35
+        },
+        {
+            "id": -1,
+            "code": "-1",
+            "description": "test",
+            "idCategoria": 1,
+            "categoria": "Pantalon",
+            "idTalle": 3,
+            "talle": "S - Small",
+            "price": 5000
+        }
+    ],
+    "idCliente": 10126,
+    "listaMediosDePago": [
+        {
+            "id": 6,
+            "description": "Credito en Tienda",
+            "subTotal": 10000,
+            "descuentoValor": 0,
+            "total": 10000
+        },
+        {
+            "id": 2,
+            "description": "MP - Transferencia",
+            "subTotal": 4000,
+            "descuentoValor": 0,
+            "total": 4000
+        },
+        {
+            "id": 10,
+            "description": "Efectivo - 10% OFF",
+            "subTotal": 5100.7,
+            "descuentoValor": 510.07,
+            "total": 4590.63
+        }
+    ],
+    "subtotal": 19100.7,
+    "descuento": 510.07,
+    "total": 18590.63
+}

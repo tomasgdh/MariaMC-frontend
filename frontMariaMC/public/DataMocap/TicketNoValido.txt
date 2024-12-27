@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Factura</title>
+</head>
+<body style="font-size: 0.7rem;">
+    <header>
+        <!-- Aquí puedes colocar contenido adicional para el encabezado si es necesario -->
+    </header>
+    <main>
+        <h3 style="font-size: 1rem;">Maria Moda Circular</h3>
+        <hr>
+        <p style="font-size: 0.7rem;"><b>Cliente:</b> {Cliente}</p>
+        <p style="font-size: 0.7rem;"><b>Usuario:</b> {Usuario}</p>           
+        <hr>
+        <p style="font-size: 0.7rem;"><b>Fecha:</b> {Fecha}</p>
+        <p style="font-size: 0.7rem;"><b>Operación:</b> {NroOperacion}</p>
+        <p style="font-size: 0.7rem;"><b>Atendido por:</b> {Vendedor}</p>
+        <hr>
+        <div style="font-size: 0.7rem;">{Detalle}</div>
+        <hr>
+        <div style="font-size: 0.7rem;">{DetalleMedioDePago}</div>
+        <hr>
+        <p style="font-size: 0.7rem;">Gracias por su compra.</p>
+    </main>
+    <footer>
+        <!-- Aquí puedes colocar contenido adicional para el pie de página si es necesario -->
+    </footer>
+</body>
+</html>

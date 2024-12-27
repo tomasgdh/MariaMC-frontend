@@ -1,0 +1,21 @@
+<br>
+      Maria Moda Circular<br>
+--------------------------------<br>
+Cliente: {Cliente}<br>
+Usuario: {Usuario}<br>
+--------------------------------<br>
+Fecha: {Fecha}<br>
+Operación: {NroOperacion}<br>
+Atendido por: {Vendedor}<br>
+--------------------------------<br>
+{Detalle}<br>
+--------------------------------<br>
+{DetalleMedioDePago}<br>
+--------------------------------<br>
+Gracias por su compra.<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>

@@ -1,0 +1,13 @@
+{
+    "result": "ok",
+    "items":[
+        { "id": 0, "description": "Seleccione un Medio de Pago"},
+        { "id": 1, "description": "Efectivo"},
+        { "id": 10, "description": "Efectivo - 10% OFF","descuento":0.10},
+        { "id": 2, "description": "MP - Transferencia"},
+        { "id": 3, "description": "MP - QR"},
+        { "id": 4, "description": "MP - Debito"},
+        { "id": 5, "description": "MP - Credito"},
+        { "id": 6, "description": "Credito en Tienda"}
+    ]
+}

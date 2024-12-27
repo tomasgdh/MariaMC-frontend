@@ -1,0 +1,10 @@
+{
+    "result": "ok",
+    "items":[
+        { "id": 10, "code": "010", "description": "Producto 10", "talle": "XL", "price": 100.5 },
+        { "id": 10, "code": "010", "description": "Producto 11", "talle": "XL", "price": 7050.35 },
+        { "id": 11, "code": "011", "description": "Producto 12", "talle": "XL", "price": 8651.23 },
+        { "id": 12, "code": "012", "description": "Producto 13", "talle": "XL", "price": 9500 },
+        { "id": 14, "code": "014", "description": "Producto 14", "talle": "XL", "price": 25000 }
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "result": "ok",
+    "clientes":[
+        { "id": 10123, "usuario": "iuschequer@gmail.com", "description": "Maria Iustina Chequer","nroDocumento":34139217, "creditoEnTienda": 5000 },
+        { "id": 10124, "usuario": "jp@gmail.com", "description": "Juan de los Palotes","nroDocumento":12345678, "creditoEnTienda": 0 },
+        { "id": 10125, "usuario": "test@test.com", "description": "usuario de Test","nroDocumento":87654321, "creditoEnTienda": 5000 },
+        { "id": 10126, "usuario": "tomasgdh@gmail.com", "description": "Tomás Ricardo García del Hoyo","nroDocumento":31004023, "creditoEnTienda": 10000 },
+        { "id": 10127, "usuario": "marycecibri@gmail.com", "description": "Maria Cecilia Brignone","nroDocumento":14222117, "creditoEnTienda": 5000 }
+    ]
+}
